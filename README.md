@@ -1,1 +1,1 @@
-# leaning-rust
+# learning-rust
